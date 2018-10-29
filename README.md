@@ -70,7 +70,7 @@ isPathInScope ('anything.read', userScopes)
 
 #### Optional params
 ```js
-// I don't know why
+// I don't know why not
 const params = {
   separator = '-',
   wildcard = '#'
