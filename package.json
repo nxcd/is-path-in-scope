@@ -1,5 +1,5 @@
 {
-  "name": "is-path-in-scope",
+  "name": "@nxcd/is-path-in-scope",
   "version": "1.0.0",
   "description": "\"Just it, verify is-path-in-scope\" ",
   "main": "index.js",
@@ -13,7 +13,10 @@
   "keywords": [
     "scopes"
   ],
-  "author": "Caio Delgado",
+  "contributors": [
+    "Caio Delgado <caiodelgado.csd@gmail.com>",
+    "Rogério Munhoz <rogerio.munhoz@gmail.com>"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/nxcd/is-path-in-scope/issues"
