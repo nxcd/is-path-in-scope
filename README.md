@@ -5,7 +5,7 @@
 ## Description
 > Just it, verify "is path in scope".
 
-Checks wether a given path is covered by asset of scopes.
+Checks wether a given path is covered by a set of scopes.
 
 ## Usage
 
