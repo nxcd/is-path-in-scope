@@ -1,0 +1,22 @@
+{
+  "name": "is-path-in-scope",
+  "version": "1.0.0",
+  "description": "\"Just it, verify is-path-in-scope\" ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nxcd/is-path-in-scope.git"
+  },
+  "keywords": [
+    "scopes"
+  ],
+  "author": "Caio Delgado",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nxcd/is-path-in-scope/issues"
+  },
+  "homepage": "https://github.com/nxcd/is-path-in-scope#readme"
+}
