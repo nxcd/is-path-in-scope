@@ -5,7 +5,7 @@
 ## Description
 > Just it, verify "is path in scope".
 
-Checks wether a given path is covered by given scopes.
+Checks wether a given path is covered by asset of scopes.
 
 ## Usage
 
@@ -72,11 +72,11 @@ isPathInScope ('anything.read', userScopes)
 ```js
 // I don't know why not
 const params = {
-  separator = '-',
-  wildcard = '#'
+  separator = '/',
+  wildcard = '...'
 }
 
-const userScopes = [ 'something-#' ]
+const userScopes = [ 'something/...' ]
 
 isPathScope('something-write', userScopes, params)
 ```
